@@ -1,5 +1,5 @@
 <p align = "center">
-    <a href="https://dsc.hbtu.in/">
+    <a href="https://gdg.hbtu.in/">
         <img src="./assets/img/logos/DSCHBTU-readme.jpg" />
     </a>
 </p>
